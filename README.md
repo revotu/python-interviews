@@ -1,4 +1,7 @@
 # Python基础面试题 #
+
+[TOC]
+
 ## 1.Python反转序列(列表、元组、字符串)的几种方法 ##
 ### 使用reversed(seq)内置函数 ###
 reversed(seq)是将序列（seq）反转，返回一个迭代器。

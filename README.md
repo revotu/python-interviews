@@ -1,7 +1,5 @@
 # Python基础面试题 #
-----------
 ## 1.Python反转序列(列表、元组、字符串)的几种方法 ##
-----------
 ### 使用reversed(seq)内置函数 ###
 reversed(seq)是将序列（seq）反转，返回一个迭代器。
 ```python
@@ -75,7 +73,6 @@ reversed(seq)是将序列（seq）反转，返回一个迭代器。
 ```
 原文参考：[Python反转序列(列表、元组、字符串)的几种方法](http://www.revotu.com/reverse-sequence-list-tuple-str-in-python.html)
 ## 2.Python矩阵转置方法(二维列表行列互换) ##
-----------
 有列表如下：
 ```python
 matrix = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]

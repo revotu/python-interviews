@@ -7,6 +7,9 @@
     - [3 Python合并两个字典成一个新字典的几种方法分析比较](#3-python合并两个字典成一个新字典的几种方法分析比较)
     - [4 用pythonic的方法合并两个列表成一个字典](#4-用pythonic的方法合并两个列表成一个字典)
     - [5 三种pythonic的方法交换字典的键keys和值values](#5-三种pythonic的方法交换字典的键keys和值values)
+    - [6 Python文件内容按行读取到列表中](#6-python文件内容按行读取到列表中)
+    - [7 Python内置函数any和all的用法及示例](#7-python内置函数any和all的用法及示例)
+    - [8 Python2和Python3中字典的keys()、values()、items()方法的区别](#8-python2和python3中字典的keysvaluesitems方法的区别)
 
 - [Python数据结构与算法](#python数据结构与算法)
     - [1 剑指offer-Python版答案](#1-剑指offer-python版答案)
@@ -30,6 +33,12 @@
 原文参考：[用pythonic的方法合并两个列表成一个字典](http://www.revotu.com/pythonic-method-merge-two-list-to-one-dict.html)
 ## 5 三种pythonic的方法交换字典的键keys和值values ##
 原文参考：[三种pythonic的方法交换字典的键keys和值values](http://www.revotu.com/three-pythonic-ways-to-swap-dict-keys-and-values.html)
+## 6 Python文件内容按行读取到列表中 ##
+原文参考：[Python文件内容按行读取到列表中](http://www.revotu.com/read-file-to-list-by-line.html)
+## 7 Python内置函数any和all的用法及示例 ##
+原文参考：[Python内置函数any和all的用法及示例](http://www.revotu.com/python-built-in-function-any-and-all.html)
+## 8 Python2和Python3中字典的keys()、values()、items()方法的区别 ##
+原文参考：[Python2和Python3中字典的keys()、values()、items()方法的区别](http://www.revotu.com/difference-dict-keys-values-items-between-python2-and-python3.html)
 
 # Python数据结构与算法 #
 ## 1 剑指offer-Python版答案 ##

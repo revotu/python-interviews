@@ -1,6 +1,14 @@
-# Python基础面试题 #
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+**Table of Contents**
 
-[TOC]
+- [Python基础面试题](#Python基础面试题)
+    - [1.Python反转序列(列表、元组、字符串)的几种方法](#1.Python反转序列(列表、元组、字符串)的几种方法)
+    - [2.Python矩阵转置方法(二维列表行列互换)](#2.Python矩阵转置方法(二维列表行列互换))
+
+<!-- markdown-toc end -->
+
+
+# Python基础面试题 #
 
 ## 1.Python反转序列(列表、元组、字符串)的几种方法 ##
 ### 使用reversed(seq)内置函数 ###

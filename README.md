@@ -105,4 +105,5 @@ matrix = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
 >>> 
 ```
 原理也很清晰：先用zip并行迭代每一个列表元素，然后再用map将结果中的元组转成列表。
+
 原文参考：[Python矩阵转置方法(二维列表行列互换)](http://www.revotu.com/matrix-transpose-in-python.html)

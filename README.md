@@ -11,6 +11,10 @@
 - [Python数据结构与算法](#python数据结构与算法)
     - [1 剑指offer-Python版答案](#1-剑指offer-python版答案)
     - [2 Python基于列表实现数据结构栈stack和队列queue](#2-python基于列表实现数据结构栈stack和队列queue)
+
+- [Python实现经典编程题](#python实现经典编程题)
+    - [1 Python求斐波那契数列的第n项几种方法](#1-python求斐波那契数列的第n项几种方法)
+
 <!-- markdown-toc end -->
 
 
@@ -32,3 +36,6 @@
 原文参考：[剑指offer-Python版答案](http://www.revotu.com/coding-interviews-python-solutions.html)
 ## 2 Python基于列表实现数据结构栈stack和队列queue ##
 原文参考：[Python基于列表实现数据结构栈stack和队列queue](http://www.revotu.com/python-implement-data-stucture-stack-and-queue-base-on-list.html)
+# Python实现经典编程题 #
+## 1 Python求斐波那契数列的第n项几种方法 ##
+原文参考：[Python求斐波那契数列的第n项几种方法](http://www.revotu.com/python-get-fibonacci-n-number.html)

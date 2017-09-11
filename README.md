@@ -9,7 +9,8 @@
     - [5 三种pythonic的方法交换字典的键keys和值values](#5-三种pythonic的方法交换字典的键keys和值values)
 
 - [Python数据结构与算法](#python数据结构与算法)
-    - [1 Python基于列表实现数据结构栈stack和队列queue](#-python基于列表实现数据结构栈stack和队列queue)
+    - [1 剑指offer-Python版答案](#1-剑指offer-python版答案)
+    - [2 Python基于列表实现数据结构栈stack和队列queue](#2-python基于列表实现数据结构栈stack和队列queue)
 <!-- markdown-toc end -->
 
 
@@ -27,5 +28,7 @@
 原文参考：[三种pythonic的方法交换字典的键keys和值values](http://www.revotu.com/three-pythonic-ways-to-swap-dict-keys-and-values.html)
 
 # Python数据结构与算法 #
-## Python基于列表实现数据结构栈stack和队列queue ##
+## 1 剑指offer-Python版答案 ##
+原文参考：[剑指offer-Python版答案](http://www.revotu.com/coding-interviews-python-solutions.html)
+## 2 Python基于列表实现数据结构栈stack和队列queue ##
 原文参考：[Python基于列表实现数据结构栈stack和队列queue](http://www.revotu.com/python-implement-data-stucture-stack-and-queue-base-on-list.html)

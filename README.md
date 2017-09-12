@@ -17,6 +17,7 @@
 
 - [Python实现经典编程题](#python实现经典编程题)
     - [1 Python求斐波那契数列的第n项几种方法](#1-python求斐波那契数列的第n项几种方法)
+	- [2 Python解决跳台阶、变态跳台阶、矩形覆盖问题](#2-python解决跳台阶变态跳台阶矩形覆盖问题)
 
 <!-- markdown-toc end -->
 
@@ -48,3 +49,5 @@
 # Python实现经典编程题 #
 ## 1 Python求斐波那契数列的第n项几种方法 ##
 原文参考：[Python求斐波那契数列的第n项几种方法](http://www.revotu.com/python-get-fibonacci-n-number.html)
+## 2 Python解决跳台阶、变态跳台阶、矩形覆盖问题 ##
+原文参考：[Python解决跳台阶、变态跳台阶、矩形覆盖问题](http://www.revotu.com/python-recursive-and-iterator-problems.html)
